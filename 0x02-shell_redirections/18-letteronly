@@ -1,2 +1,2 @@
 #!/bin/bash
-18-letteronly
+egrep ^ [[:alpha:]] /etc/ssh/sshd_config
